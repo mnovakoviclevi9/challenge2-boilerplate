@@ -1,0 +1,38 @@
+.quantity {
+    max-height: 25px;
+    margin-right: 0px;
+    width: 100%;
+    height: 38px;
+    max-width: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 15px;
+}
+
+.quantity_button{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30px;
+    cursor: pointer;
+    font-size: 14px;
+    color: #252525; /* var(--styler-black); */
+    z-index: 1;
+    position: relative;
+    cursor: pointer;
+}
+.quantity_button_minus {
+font-size: 18px;
+}
+
+.quantity_input {
+    border: 0;
+    font-size: 12px;
+    padding: 0;
+    text-align: center;
+    height: 100%;
+    flex: 1;
+    width: auto;
+}

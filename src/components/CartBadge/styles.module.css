@@ -1,0 +1,18 @@
+.cart_badge {
+    display: flex;
+    align-items: center;
+    border-radius: 50px;
+    height: fit-content;
+    padding: 5px;
+    cursor: pointer;
+}
+.cart_icon {
+    height: 25px;
+    width:25px;
+    color: #fff;
+}
+
+.cart_items_number {
+   font-size: 12px;
+   color:#fff;
+}

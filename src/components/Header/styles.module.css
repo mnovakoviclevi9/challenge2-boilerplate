@@ -1,0 +1,32 @@
+.header {
+    padding: 5px;
+   
+    background-color: #1942f5;
+}
+
+.header_content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.mainNav {
+    vertical-align: middle;
+    display: inline;
+    background-color: red;
+}
+.logo_wrapp {
+    max-width: 50px;
+}
+.nav_items {
+  list-style: none;
+  display: flex;
+  margin: 0;
+}
+.nav_item {
+    padding: 10px;
+    margin-left: 5px;
+    background-color: blue;
+    color:white;
+    cursor: pointer;
+}

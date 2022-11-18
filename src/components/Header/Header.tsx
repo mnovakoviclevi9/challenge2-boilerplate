@@ -1,4 +1,4 @@
-import { memo } from 'react';
+import { memo } from "react";
 import CartBadge from "components/CartBadge";
 import WishlistBadge from "components/WishlistBadge";
 import styles from "./styles.module.css";
@@ -23,7 +23,6 @@ export const Header = () => {
                 <li className={styles.nav_item}>Example</li>
               </Link>
             </ul>
-           
           </nav>
           <div className="flex">
             <WishlistBadge />

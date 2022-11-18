@@ -22,13 +22,12 @@
    Bonus:
    1) Login: https://fakestoreapi.com/auth/login
    2) Account Page: https://fakestoreapi.com/users/[user_id]
+
 ## requirement
 - use some of  UI component libraries
 - use state managment react context or redux 
 - use some of the libraries for workin with forms ( React-hook-Form or Formic)
 # Create Pages:
-* Create components
-  * Cart Badge ( count of product an price)
 1) Home page : there will be displayed list of products
    * Product cards: each card should have image, price title, and category, add wishlist
      all cards will be clicable and after click on particular card we will be redirected
@@ -87,6 +86,14 @@
  * https://locize.com/blog/react-i18next/
       
 # USEFUL RESOURCES:
+   
+   ### ES7+ React/Redux/React-Native snippets - VS Code Extension
+    * https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets
+    * https://www.youtube.com/watch?v=1tBHgCHyi8A
+   ### React DevTool - Chrome Extension:
+   *  https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
+   * How to use it: https://www.youtube.com/watch?v=rb1GWqCJid4&ab_channel=TheNetNinja
+
    ###  REST API DATA
       * AXIOS HTTP Client for  - https://axios-http.com/docs/intro
       * react-query: Hooks for fetching, caching and updating asynchronous data -   https://www.npmjs.com/package/react-query
@@ -169,3 +176,16 @@ idea for mockup design
 https://ninetheme.com/themes/styler/fashion/shop/?min_price=10&max_price=190&shop_layouts=left-sidebar
 
 https://coruscating-zuccutto-2cd80d.netlify.app/cart
+
+# Gitlab repo:
+* https://vcs.levi9.com/
+
+* Click on ***Levi9 LDAP*** tab and login with your azure credentials<br/>
+  <img src="./public/levi9-LDAP.png" width="250" title="hover text">
+
+* Create new repository 
+
+* Add members: marko.novakovic@levi9.com, d.timotic@levi9.com with developer role.
+
+
+

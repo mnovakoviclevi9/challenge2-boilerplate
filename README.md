@@ -1,6 +1,10 @@
 
 ## How to start project:
-* clone boilerplate from this repo: https://github.com/MNovakovich/levi9-react-starter-theme
+* clone this repo: https://github.com/mnovakoviclevi9/challenge2-boilerplate
+
+   ```sh
+     git clone https://github.com/mnovakoviclevi9/challenge2-boilerplate
+   ```
 
 * into the root of project install npm packages: 
    ```sh

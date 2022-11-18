@@ -1,5 +1,18 @@
 
+## Pre-Requisites for running react locally
+   Before you get started, there are some prior conditions or prerequisites required by your system. Make sure that your system:
+   #### Installing NPM and Node.js:
+
+   * Go to this link https://nodejs.org/en/
+   * Download the current latest features version - not the LTS version 
+   * While installing Node.js, install NPM with it too
+
+   #### install VSCode  Text Editor: 
+
+   * https://code.visualstudio.com/
+
 ## How to start project:
+
 * clone this repo: https://github.com/mnovakoviclevi9/challenge2-boilerplate
 
    ```sh
@@ -15,6 +28,7 @@
    ```sh
       npm run start
    ```
+
 ## Api documentation:
   * https://fakestoreapi.com/docs
 
@@ -119,6 +133,7 @@
  ### IT'S GOOD TO READ BEFORE YOU START:
 1) https://blog.webdevsimplified.com/2022-07/react-folder-structure/
 2) https://andela.com/insights/structuring-your-react-application-atomic-design-principles/
+3) https://reactgo.com/react-custom-hooks
 
   # BASIC PROJECT STURCTURE
 
